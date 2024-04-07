@@ -8,6 +8,8 @@ public class SuOrderApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
+		System.out.println("Hello World22");
+
 		SpringApplication.run(SuOrderApplication.class, args);
 	}
 
